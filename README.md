@@ -1,3 +1,10 @@
+<br>
+</br>
+<div align="center">
+  <img src="https://github.com/Oscarvm117/Oscarvm117/blob/main/2B3C1C0E-6E3C-4ACC-B313-801DD66DEF98.jpg" height="auto" width="200" style="border-radius:50%"; display: block; margin: auto;" />
+</div>
+
+###
 <h2 align="left">Hi 👋! My name is Oscar, I'm a Software Engineer from Colombia, currently studying at Universidad de La Sabana. Passionate about developing innovative solutions, I enjoy working on web development, cybersecurity, and IOT systems. 
 </h2>
 
@@ -10,9 +17,6 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Oscarvm117/Oscarvm117/blob/main/2B3C1C0E-6E3C-4ACC-B313-801DD66DEF98.jpg"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
