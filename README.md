@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Oscar, I'm a Software Engineer** from Colombia, currently studying at Universidad de La Sabana. Passionate about developing innovative solutions, I enjoy working on **web development, data analysis, and backend systems**. /h2>
+<h2 align="left">Hi 👋! My name is Oscar, I'm a Software Engineer** from Colombia, currently studying at Universidad de La Sabana. Passionate about developing innovative solutions, I enjoy working on **web development, data analysis, and backend systems. /h2>
 
 ###
 
