@@ -1,19 +1,20 @@
 
-<h2 align="left">Hi 👋! My name is Oscar, I'm a Software Engineer from Colombia, currently studying at Universidad de La Sabana. Passionate about developing innovative solutions, I enjoy working on web development, cybersecurity, and IOT systems. 
+<h2 align="left" >Hi 👋! My name is Oscar, I'm a Software Engineer from Colombia, currently studying at Universidad de La Sabana. Passionate about developing innovative solutions, I enjoy working on web development, cybersecurity, and IOT systems. 
 </h2>
 
 ###
 <br>
 </br>
 <div align="center">
-  <img src="https://github.com/Oscarvm117/Oscarvm117/blob/main/2B3C1C0E-6E3C-4ACC-B313-801DD66DEF98.jpg" height="auto" width="200" style="border-radius:50%"; display: block; margin: auto;" />
+  <img src= "https://github.com/Oscarvm117/Oscarvm117/blob/main/2B3C1C0E-6E3C-4ACC-B313-801DD66DEF98.jpg" height="500px" alt="your-image-description" style="border-radius:"50%"">
+
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oscarvm117&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oscarvm117&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
