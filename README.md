@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/Oscarvm117/Oscarvm117/blob/main/2B3C1C0E-6E3C-4ACC-B313-801DD66DEF98.jpg"  />
 
 ###
 
